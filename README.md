@@ -1,1 +1,1 @@
-# catamount
+# Machine Learning Project
