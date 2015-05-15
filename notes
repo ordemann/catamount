@@ -1,0 +1,10 @@
+git checkout master
+git checkout gh-pages
+
+git add <file> # needed to stage files as well
+git add . # all files
+git commit -m "comments"
+git push
+
+git rm <file>
+
